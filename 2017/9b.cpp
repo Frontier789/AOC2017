@@ -10,7 +10,7 @@ using namespace std;
 
 int main()
 {
-	ifstream in("8a.in");
+	ifstream in("9a.in");
 	
 	bool skip = false;
 	bool garbage = false;
